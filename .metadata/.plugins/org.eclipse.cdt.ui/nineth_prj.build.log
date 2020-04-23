@@ -1,0 +1,11 @@
+10:36:41 **** Incremental Build of configuration Debug for project nineth_prj ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\nineth_prj.o" "..\\src\\nineth_prj.cpp" 
+..\src\nineth_prj.cpp: In function 'int main()':
+..\src\nineth_prj.cpp:10:14: warning: unused variable 'u' [-Wunused-variable]
+  int z = a , u = b;
+              ^
+g++ -o nineth_prj.exe "src\\nineth_prj.o" 
+
+10:36:41 Build Finished. 0 errors, 1 warnings. (took 798ms)
+

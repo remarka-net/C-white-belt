@@ -1,0 +1,369 @@
+10:01:39 **** Incremental Build of configuration Debug for project tenth_prj ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\tenth_prj.o" "..\\src\\tenth_prj.cpp" 
+..\src\tenth_prj.cpp: In function 'int main()':
+..\src\tenth_prj.cpp:16:21: warning: comparison between signed and unsigned integer expressions [-Wsign-compare]
+    for(int k = 0; k < v.size(); k++){
+                   ~~^~~~~~~~~~
+g++ -o tenth_prj.exe "src\\tenth_prj.o" 
+Info: Nothing to build for tenth_prj
+Info: Nothing to build for tenth_prj
+10:04:28 **** Incremental Build of configuration Debug for project tenth_prj ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\tenth_prj.o" "..\\src\\tenth_prj.cpp" 
+..\src\tenth_prj.cpp: In function 'int main()':
+..\src\tenth_prj.cpp:10:2: error: expected ';' before 'for'
+  for (int i; i <= n; i++){
+  ^~~
+..\src\tenth_prj.cpp:10:14: error: 'i' was not declared in this scope
+  for (int i; i <= n; i++){
+              ^
+..\src\tenth_prj.cpp:16:21: warning: comparison between signed and unsigned integer expressions [-Wsign-compare]
+    for(int k = 0; k < v.size(); k++){
+                   ~~^~~~~~~~~~
+10:04:35 **** Incremental Build of configuration Debug for project tenth_prj ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\tenth_prj.o" "..\\src\\tenth_prj.cpp" 
+..\src\tenth_prj.cpp: In function 'int main()':
+..\src\tenth_prj.cpp:16:21: warning: comparison between signed and unsigned integer expressions [-Wsign-compare]
+    for(int k = 0; k < v.size(); k++){
+                   ~~^~~~~~~~~~
+g++ -o tenth_prj.exe "src\\tenth_prj.o" 
+Info: Nothing to build for tenth_prj
+10:05:16 **** Incremental Build of configuration Debug for project tenth_prj ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\tenth_prj.o" "..\\src\\tenth_prj.cpp" 
+..\src\tenth_prj.cpp: In function 'int main()':
+..\src\tenth_prj.cpp:16:21: warning: comparison between signed and unsigned integer expressions [-Wsign-compare]
+    for(int k = 0; k < v.size(); k++){
+                   ~~^~~~~~~~~~
+g++ -o tenth_prj.exe "src\\tenth_prj.o" 
+c:/mingw/bin/../lib/gcc/mingw32/6.3.0/../../../../mingw32/bin/ld.exe: cannot open output file tenth_prj.exe: Permission denied
+collect2.exe: error: ld returned 1 exit status
+10:05:58 **** Incremental Build of configuration Debug for project tenth_prj ****
+Info: Internal Builder is used for build
+g++ -o tenth_prj.exe "src\\tenth_prj.o" 
+Info: Nothing to build for tenth_prj
+10:07:40 **** Incremental Build of configuration Debug for project tenth_prj ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\tenth_prj.o" "..\\src\\tenth_prj.cpp" 
+..\src\tenth_prj.cpp: In function 'int main()':
+..\src\tenth_prj.cpp:16:21: warning: comparison between signed and unsigned integer expressions [-Wsign-compare]
+    for(int k = 0; k < v.size(); k++){
+                   ~~^~~~~~~~~~
+g++ -o tenth_prj.exe "src\\tenth_prj.o" 
+c:/mingw/bin/../lib/gcc/mingw32/6.3.0/../../../../mingw32/bin/ld.exe: cannot open output file tenth_prj.exe: Permission denied
+collect2.exe: error: ld returned 1 exit status
+10:08:17 **** Incremental Build of configuration Debug for project tenth_prj ****
+Info: Internal Builder is used for build
+g++ -o tenth_prj.exe "src\\tenth_prj.o" 
+10:09:40 **** Incremental Build of configuration Debug for project tenth_prj ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\tenth_prj.o" "..\\src\\tenth_prj.cpp" 
+..\src\tenth_prj.cpp: In function 'int main()':
+..\src\tenth_prj.cpp:16:21: warning: comparison between signed and unsigned integer expressions [-Wsign-compare]
+    for(int k = 0; k < v.size(); k++){
+                   ~~^~~~~~~~~~
+g++ -o tenth_prj.exe "src\\tenth_prj.o" 
+Info: Nothing to build for tenth_prj
+10:11:07 **** Incremental Build of configuration Debug for project tenth_prj ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\tenth_prj.o" "..\\src\\tenth_prj.cpp" 
+..\src\tenth_prj.cpp: In function 'int main()':
+..\src\tenth_prj.cpp:19:21: warning: comparison between signed and unsigned integer expressions [-Wsign-compare]
+    for(int k = 0; k < v.size(); k++){
+                   ~~^~~~~~~~~~
+g++ -o tenth_prj.exe "src\\tenth_prj.o" 
+10:13:04 **** Incremental Build of configuration Debug for project tenth_prj ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\tenth_prj.o" "..\\src\\tenth_prj.cpp" 
+..\src\tenth_prj.cpp: In function 'int main()':
+..\src\tenth_prj.cpp:19:21: warning: comparison between signed and unsigned integer expressions [-Wsign-compare]
+    for(int k = 0; k < v.size(); k++){
+                   ~~^~~~~~~~~~
+g++ -o tenth_prj.exe "src\\tenth_prj.o" 
+Info: Nothing to build for tenth_prj
+10:17:41 **** Incremental Build of configuration Debug for project tenth_prj ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\tenth_prj.o" "..\\src\\tenth_prj.cpp" 
+..\src\tenth_prj.cpp: In function 'int main()':
+..\src\tenth_prj.cpp:20:21: warning: comparison between signed and unsigned integer expressions [-Wsign-compare]
+    for(int k = 0; k < v.size(); k++){
+                   ~~^~~~~~~~~~
+g++ -o tenth_prj.exe "src\\tenth_prj.o" 
+c:/mingw/bin/../lib/gcc/mingw32/6.3.0/../../../../mingw32/bin/ld.exe: cannot open output file tenth_prj.exe: Permission denied
+collect2.exe: error: ld returned 1 exit status
+10:18:15 **** Incremental Build of configuration Debug for project tenth_prj ****
+Info: Internal Builder is used for build
+g++ -o tenth_prj.exe "src\\tenth_prj.o" 
+10:18:51 **** Incremental Build of configuration Debug for project tenth_prj ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\tenth_prj.o" "..\\src\\tenth_prj.cpp" 
+..\src\tenth_prj.cpp: In function 'int main()':
+..\src\tenth_prj.cpp:21:21: warning: comparison between signed and unsigned integer expressions [-Wsign-compare]
+    for(int k = 0; k < v.size(); k++){
+                   ~~^~~~~~~~~~
+g++ -o tenth_prj.exe "src\\tenth_prj.o" 
+10:19:07 **** Incremental Build of configuration Debug for project tenth_prj ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\tenth_prj.o" "..\\src\\tenth_prj.cpp" 
+..\src\tenth_prj.cpp: In function 'int main()':
+..\src\tenth_prj.cpp:21:21: warning: comparison between signed and unsigned integer expressions [-Wsign-compare]
+    for(int k = 0; k < v.size(); k++){
+                   ~~^~~~~~~~~~
+g++ -o tenth_prj.exe "src\\tenth_prj.o" 
+10:19:23 **** Incremental Build of configuration Debug for project tenth_prj ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\tenth_prj.o" "..\\src\\tenth_prj.cpp" 
+..\src\tenth_prj.cpp: In function 'int main()':
+..\src\tenth_prj.cpp:21:21: warning: comparison between signed and unsigned integer expressions [-Wsign-compare]
+    for(int k = 0; k < v.size(); k++){
+                   ~~^~~~~~~~~~
+g++ -o tenth_prj.exe "src\\tenth_prj.o" 
+10:22:19 **** Incremental Build of configuration Debug for project tenth_prj ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\tenth_prj.o" "..\\src\\tenth_prj.cpp" 
+..\src\tenth_prj.cpp: In function 'int main()':
+..\src\tenth_prj.cpp:21:21: warning: comparison between signed and unsigned integer expressions [-Wsign-compare]
+    for(int k = 0; k < v.size(); k++){
+                   ~~^~~~~~~~~~
+g++ -o tenth_prj.exe "src\\tenth_prj.o" 
+10:22:34 **** Incremental Build of configuration Debug for project tenth_prj ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\tenth_prj.o" "..\\src\\tenth_prj.cpp" 
+..\src\tenth_prj.cpp: In function 'int main()':
+..\src\tenth_prj.cpp:21:21: warning: comparison between signed and unsigned integer expressions [-Wsign-compare]
+    for(int k = 0; k < v.size(); k++){
+                   ~~^~~~~~~~~~
+g++ -o tenth_prj.exe "src\\tenth_prj.o" 
+10:22:57 **** Incremental Build of configuration Debug for project tenth_prj ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\tenth_prj.o" "..\\src\\tenth_prj.cpp" 
+..\src\tenth_prj.cpp: In function 'int main()':
+..\src\tenth_prj.cpp:14:5: error: 'class std::vector<int>' has no member named 'push'
+   v.push(x);
+     ^~~~
+..\src\tenth_prj.cpp:16:6: error: 'class std::vector<int>' has no member named 'push'
+    v.push(0);
+      ^~~~
+..\src\tenth_prj.cpp:17:6: error: 'class std::vector<int>' has no member named 'push'
+    v.push(1);
+      ^~~~
+..\src\tenth_prj.cpp:21:21: warning: comparison between signed and unsigned integer expressions [-Wsign-compare]
+    for(int k = 0; k < v.size(); k++){
+                   ~~^~~~~~~~~~
+10:24:18 **** Incremental Build of configuration Debug for project tenth_prj ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\tenth_prj.o" "..\\src\\tenth_prj.cpp" 
+..\src\tenth_prj.cpp: In function 'int main()':
+..\src\tenth_prj.cpp:21:21: warning: comparison between signed and unsigned integer expressions [-Wsign-compare]
+    for(int k = 0; k < v.size(); k++){
+                   ~~^~~~~~~~~~
+g++ -o tenth_prj.exe "src\\tenth_prj.o" 
+10:34:56 **** Incremental Build of configuration Debug for project tenth_prj ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\tenth_prj.o" "..\\src\\tenth_prj.cpp" 
+..\src\tenth_prj.cpp: In function 'int main()':
+..\src\tenth_prj.cpp:10:16: error: expected ')' before ';' token
+  while (int i=0; i<10000; i++){
+                ^
+..\src\tenth_prj.cpp:10:2: warning: this 'while' clause does not guard... [-Wmisleading-indentation]
+  while (int i=0; i<10000; i++){
+  ^~~~~
+..\src\tenth_prj.cpp:10:18: note: ...this statement, but the latter is misleadingly indented as if it is guarded by the 'while'
+  while (int i=0; i<10000; i++){
+                  ^
+..\src\tenth_prj.cpp:10:13: warning: unused variable 'i' [-Wunused-variable]
+  while (int i=0; i<10000; i++){
+             ^
+..\src\tenth_prj.cpp:10:18: error: 'i' was not declared in this scope
+  while (int i=0; i<10000; i++){
+                  ^
+..\src\tenth_prj.cpp:21:21: warning: comparison between signed and unsigned integer expressions [-Wsign-compare]
+    for(int k = 0; k < v.size(); k++){
+                   ~~^~~~~~~~~~
+10:35:51 **** Incremental Build of configuration Debug for project tenth_prj ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\tenth_prj.o" "..\\src\\tenth_prj.cpp" 
+..\src\tenth_prj.cpp: In function 'int main()':
+..\src\tenth_prj.cpp:10:16: error: expected ')' before ';' token
+  while (int i=0; i<10000; i++;)
+                ^
+..\src\tenth_prj.cpp:10:2: warning: this 'while' clause does not guard... [-Wmisleading-indentation]
+  while (int i=0; i<10000; i++;)
+  ^~~~~
+..\src\tenth_prj.cpp:10:18: note: ...this statement, but the latter is misleadingly indented as if it is guarded by the 'while'
+  while (int i=0; i<10000; i++;)
+                  ^
+..\src\tenth_prj.cpp:10:13: warning: unused variable 'i' [-Wunused-variable]
+  while (int i=0; i<10000; i++;)
+             ^
+..\src\tenth_prj.cpp:10:18: error: 'i' was not declared in this scope
+  while (int i=0; i<10000; i++;)
+                  ^
+..\src\tenth_prj.cpp:10:31: error: expected primary-expression before ')' token
+  while (int i=0; i<10000; i++;)
+                               ^
+..\src\tenth_prj.cpp:22:21: warning: comparison between signed and unsigned integer expressions [-Wsign-compare]
+    for(int k = 0; k < v.size(); k++){
+                   ~~^~~~~~~~~~
+Info: Nothing to build for eitth_prj
+Info: Nothing to build for fifth_prj
+Info: Nothing to build for fourth_descriminant
+Info: Nothing to build for hello
+10:36:41 **** Incremental Build of configuration Debug for project nineth_prj ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\nineth_prj.o" "..\\src\\nineth_prj.cpp" 
+..\src\nineth_prj.cpp: In function 'int main()':
+..\src\nineth_prj.cpp:10:14: warning: unused variable 'u' [-Wunused-variable]
+  int z = a , u = b;
+              ^
+g++ -o nineth_prj.exe "src\\nineth_prj.o" 
+Info: Nothing to build for nineth_prj2
+Info: Nothing to build for seventh_prj
+Info: Nothing to build for sixth_prj
+10:36:42 **** Incremental Build of configuration Debug for project tenth_prj ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\tenth_prj.o" "..\\src\\tenth_prj.cpp" 
+..\src\tenth_prj.cpp: In function 'int main()':
+..\src\tenth_prj.cpp:21:21: warning: comparison between signed and unsigned integer expressions [-Wsign-compare]
+    for(int k = 0; k < v.size(); k++){
+                   ~~^~~~~~~~~~
+g++ -o tenth_prj.exe "src\\tenth_prj.o" 
+Info: Nothing to build for tenth_prj
+10:38:36 **** Incremental Build of configuration Debug for project tenth_prj ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\tenth_prj.o" "..\\src\\tenth_prj.cpp" 
+..\src\tenth_prj.cpp: In function 'int main()':
+..\src\tenth_prj.cpp:10:38: error: expected ')' before ';' token
+  for (int i = v.size()-1; i > -1; --i;) {
+                                      ^
+..\src\tenth_prj.cpp:10:2: warning: this 'for' clause does not guard... [-Wmisleading-indentation]
+  for (int i = v.size()-1; i > -1; --i;) {
+  ^~~
+..\src\tenth_prj.cpp:10:39: note: ...this statement, but the latter is misleadingly indented as if it is guarded by the 'for'
+  for (int i = v.size()-1; i > -1; --i;) {
+                                       ^
+..\src\tenth_prj.cpp:10:39: error: expected primary-expression before ')' token
+..\src\tenth_prj.cpp:21:21: warning: comparison between signed and unsigned integer expressions [-Wsign-compare]
+    for(int k = 0; k < v.size(); k++){
+                   ~~^~~~~~~~~~
+10:42:02 **** Incremental Build of configuration Debug for project tenth_prj ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\tenth_prj.o" "..\\src\\tenth_prj.cpp" 
+..\src\tenth_prj.cpp: In function 'int main()':
+..\src\tenth_prj.cpp:10:38: error: expected ')' before ';' token
+  for (int i = v.size()-1; i > -1; --i;) {
+                                      ^
+..\src\tenth_prj.cpp:10:2: warning: this 'for' clause does not guard... [-Wmisleading-indentation]
+  for (int i = v.size()-1; i > -1; --i;) {
+  ^~~
+..\src\tenth_prj.cpp:10:39: note: ...this statement, but the latter is misleadingly indented as if it is guarded by the 'for'
+  for (int i = v.size()-1; i > -1; --i;) {
+                                       ^
+..\src\tenth_prj.cpp:10:39: error: expected primary-expression before ')' token
+10:42:32 **** Incremental Build of configuration Debug for project tenth_prj ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\tenth_prj.o" "..\\src\\tenth_prj.cpp" 
+g++ -o tenth_prj.exe "src\\tenth_prj.o" 
+10:43:16 **** Incremental Build of configuration Debug for project tenth_prj ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\tenth_prj.o" "..\\src\\tenth_prj.cpp" 
+..\src\tenth_prj.cpp: In function 'int main()':
+..\src\tenth_prj.cpp:21:21: warning: comparison between signed and unsigned integer expressions [-Wsign-compare]
+    for(int k = 0; k < v.size(); k++){
+                   ~~^~~~~~~~~~
+g++ -o tenth_prj.exe "src\\tenth_prj.o" 
+10:43:50 **** Incremental Build of configuration Debug for project tenth_prj ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\tenth_prj.o" "..\\src\\tenth_prj.cpp" 
+g++ -o tenth_prj.exe "src\\tenth_prj.o" 
+10:44:32 **** Incremental Build of configuration Debug for project tenth_prj ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\tenth_prj.o" "..\\src\\tenth_prj.cpp" 
+..\src\tenth_prj.cpp: In function 'int main()':
+..\src\tenth_prj.cpp:23:16: error: invalid use of member 'std::vector<_Tp, _Alloc>::size_type std::vector<_Tp, _Alloc>::size() const [with _Tp = int; _Alloc = std::allocator<int>; std::vector<_Tp, _Alloc>::size_type = unsigned int]' (did you forget the '&' ?)
+          if (v.size < 1 ){
+              ~~^~~~
+10:44:46 **** Incremental Build of configuration Debug for project tenth_prj ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\tenth_prj.o" "..\\src\\tenth_prj.cpp" 
+g++ -o tenth_prj.exe "src\\tenth_prj.o" 
+10:45:02 **** Incremental Build of configuration Debug for project tenth_prj ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\tenth_prj.o" "..\\src\\tenth_prj.cpp" 
+g++ -o tenth_prj.exe "src\\tenth_prj.o" 
+10:45:13 **** Incremental Build of configuration Debug for project tenth_prj ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\tenth_prj.o" "..\\src\\tenth_prj.cpp" 
+g++ -o tenth_prj.exe "src\\tenth_prj.o" 
+10:46:05 **** Incremental Build of configuration Debug for project tenth_prj ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\tenth_prj.o" "..\\src\\tenth_prj.cpp" 
+g++ -o tenth_prj.exe "src\\tenth_prj.o" 
+10:46:18 **** Incremental Build of configuration Debug for project tenth_prj ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\tenth_prj.o" "..\\src\\tenth_prj.cpp" 
+g++ -o tenth_prj.exe "src\\tenth_prj.o" 
+Info: Nothing to build for tenth_prj
+Info: Nothing to build for tenth_prj
+10:50:09 **** Incremental Build of configuration Debug for project tenth_prj ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\tenth_prj.o" "..\\src\\tenth_prj.cpp" 
+g++ -o tenth_prj.exe "src\\tenth_prj.o" 
+c:/mingw/bin/../lib/gcc/mingw32/6.3.0/../../../../mingw32/bin/ld.exe: cannot open output file tenth_prj.exe: Permission denied
+collect2.exe: error: ld returned 1 exit status
+10:50:44 **** Incremental Build of configuration Debug for project tenth_prj ****
+Info: Internal Builder is used for build
+g++ -o tenth_prj.exe "src\\tenth_prj.o" 
+10:51:09 **** Incremental Build of configuration Debug for project tenth_prj ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\tenth_prj.o" "..\\src\\tenth_prj.cpp" 
+g++ -o tenth_prj.exe "src\\tenth_prj.o" 
+Info: Nothing to build for tenth_prj
+10:52:29 **** Incremental Build of configuration Debug for project tenth_prj ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\tenth_prj.o" "..\\src\\tenth_prj.cpp" 
+g++ -o tenth_prj.exe "src\\tenth_prj.o" 
+c:/mingw/bin/../lib/gcc/mingw32/6.3.0/../../../../mingw32/bin/ld.exe: cannot open output file tenth_prj.exe: Permission denied
+collect2.exe: error: ld returned 1 exit status
+10:53:01 **** Incremental Build of configuration Debug for project tenth_prj ****
+Info: Internal Builder is used for build
+g++ -o tenth_prj.exe "src\\tenth_prj.o" 
+10:53:15 **** Incremental Build of configuration Debug for project tenth_prj ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\tenth_prj.o" "..\\src\\tenth_prj.cpp" 
+g++ -o tenth_prj.exe "src\\tenth_prj.o" 
+10:53:38 **** Incremental Build of configuration Debug for project tenth_prj ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\tenth_prj.o" "..\\src\\tenth_prj.cpp" 
+g++ -o tenth_prj.exe "src\\tenth_prj.o" 
+10:53:46 **** Incremental Build of configuration Debug for project tenth_prj ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\tenth_prj.o" "..\\src\\tenth_prj.cpp" 
+g++ -o tenth_prj.exe "src\\tenth_prj.o" 
+10:55:20 **** Incremental Build of configuration Debug for project tenth_prj ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\tenth_prj.o" "..\\src\\tenth_prj.cpp" 
+g++ -o tenth_prj.exe "src\\tenth_prj.o" 
+10:56:39 **** Incremental Build of configuration Debug for project tenth_prj ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\tenth_prj.o" "..\\src\\tenth_prj.cpp" 
+g++ -o tenth_prj.exe "src\\tenth_prj.o" 
+Info: Nothing to build for tenth_prj
+Info: Nothing to build for tenth_prj
+10:58:52 **** Incremental Build of configuration Debug for project tenth_prj ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\tenth_prj.o" "..\\src\\tenth_prj.cpp" 
+g++ -o tenth_prj.exe "src\\tenth_prj.o" 
+c:/mingw/bin/../lib/gcc/mingw32/6.3.0/../../../../mingw32/bin/ld.exe: cannot open output file tenth_prj.exe: Permission denied
+collect2.exe: error: ld returned 1 exit status
+10:59:27 **** Incremental Build of configuration Debug for project tenth_prj ****
+Info: Internal Builder is used for build
+g++ -o tenth_prj.exe "src\\tenth_prj.o" 
+Info: Nothing to build for tenth_prj
+11:07:14 **** Incremental Build of configuration Debug for project tenth_prj ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\tenth_prj.o" "..\\src\\tenth_prj.cpp" 
+g++ -o tenth_prj.exe "src\\tenth_prj.o" 
+Info: Nothing to build for tenth_prj

@@ -1,0 +1,13 @@
+#include <math.h>
+#include <iostream>
+#include <vector>
+using namespace std;
+
+int main() {
+	int n;
+	vector<int> l1;
+	cin >> n;
+	cout << n%2;
+	system("pause");
+	return 0;
+}
