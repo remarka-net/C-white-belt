@@ -1,32 +1,22 @@
-
 #include <iostream>
 #include <cmath>
 using namespace std;
-
-int main() {
-	double a,b,c;
-	double x1, x2;
-	double D;
+int main()
+{
+	double a,b,c,x1,x2,D;
 	cin >> a >> b >> c;
-	if (a == 0 && b == 0){
+	if (!a&&!b)
 		return 0;
-	}
-	else if (a == 0){
-		c *= -1;
-		x1 = c/b;
-		cout<<x1;
-	}else{
-	D = b*b - 4 * a * c;
-	if (D < 0){
+	if (!a)
+		cout << (x1 = (c=-c)/b);
+	else
+	D = pow(b,2) - 4 * a * c;
+	
+	if (D < 0)
 		return 0;
-	}else if ( D > 0){
-		x1 = (b*(-1) + sqrt(D))/(2*a);
-		x2 = (b*(-1) - sqrt(D))/(2*a);
-		cout<<x1<<" "<<x2;
-	}else{
-		x1 = x2 = b*(-1)/(2*a);
-		cout<<x1<<endl;
-	}
-	}
+	if (D > 0)
+		cout<<(x2 = -b/2/a-(x1 = sqrt(D)/2/a))<<" "<<(x1 -= b/2/a)<<endl;
+	else
+		cout<<(x1 = x2 = -b/2/a)<<endl;
 	return 0;
 }
