@@ -15,7 +15,7 @@ int main() {
 	} else if (b % a == 0){
 		cout << a;
 	} else {
-		for (int i = 0; i <= a+i; i++){
+		for (int i = 0; 0 <= a; i++){
 			if (a % 2 == 0){
 				a = a / 2;
 				continue;
@@ -33,7 +33,7 @@ int main() {
 				break;
 			}
 		}
-		for (int k = 0; k <= b+k; k++){
+		for (int k = 0; 0 <= b; k++){
 			if (b % 2 == 0){
 				b = b / 2;
 				continue;
